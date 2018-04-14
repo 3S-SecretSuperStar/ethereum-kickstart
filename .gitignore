@@ -1,2 +1,2 @@
-node_modules
-ethereum/HDWalletProvider.js
+node_modules/
+**/HDWalletProvider.js
