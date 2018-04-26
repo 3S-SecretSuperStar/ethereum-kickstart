@@ -7,3 +7,5 @@ npm install --save next@4.1.4 react react-dom
 npm install --save semantic-ui-react
 
 npm install --save semantic-ui-css
+
+npm install --save next-routes
