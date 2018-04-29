@@ -19,3 +19,4 @@ class ContributeForm extends Component {
         );
     }
 }
+export default ContributeForm;
